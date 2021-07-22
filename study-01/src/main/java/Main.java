@@ -12,7 +12,8 @@ public class Main {
         list.add(P2);
         list.add(P3);
         System.out.println(list.contains(new Person("zhansan",12)));
-        }
+        System.out.println("hello git");
+    }
     }
 
 
